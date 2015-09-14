@@ -18,6 +18,7 @@ public class QuoteViewerActivity extends Activity implements ListSelectionListen
 	private final QuoteFragment mDetailsFragment = new QuoteFragment();
 	public static final int UNSELECTED = -1;
 	private FragmentManager mFragmentManager;
+	// this is a comment
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
